@@ -44,7 +44,7 @@ const webdavProxy = (): Plugin => ({
 })
 
 export default defineConfig({
-  base: './',
+  base: '/taoyuan/',
   build: {
     outDir: 'docs'
   },
